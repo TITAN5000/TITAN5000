@@ -3,3 +3,5 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%20c73c&lines=Мои+навыки:)](https://git.io/typing-svg)
 <p><strong>&bull; </strong>Курсовой проект<strong> Secure Messenger:&nbsp;</strong>&nbsp;<a href="https://github.com/TITAN5000/sib-secure-kontur-diploma" target="_blank" rel="noopener">Репозиторий с курсовой работой</a></p>
+<p><strong>&bull;&nbsp;</strong>Курсовой проект<strong>&nbsp;"Сети передачи данных и безопасность":&nbsp;<a href="https://github.com/TITAN5000/pcs-ibnet-diplom" target="_blank" rel="noopener">Репозиторий с курсовой работой</a></strong></p>
+<h1 dir="auto">&nbsp;</h1>
